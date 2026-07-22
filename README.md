@@ -12,10 +12,6 @@
 
 <!-- Profile Badges -->
 <p>
-  <a href="https://github.com/Yoseph-M">
-    <img src="https://img.shields.io/github/followers/Yoseph-M?label=Followers&style=for-the-badge&color=c4b5fd&labelColor=0d1117&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Yoseph-M&style=for-the-badge&color=c4b5fd&labelColor=0d1117&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/badge/Based%20in-Addis%20Ababa%2C%20Ethiopia%20%F0%9F%87%AA%F0%9F%87%B9-c4b5fd?style=for-the-badge&labelColor=0d1117" />
 </p>
 
@@ -33,7 +29,7 @@ const Yoseph_M = {
   
   currently: {
     building:  ["Prixm 🔗 prixm.vercel.app", "Nuvlo"],
-    deployed:  ["Soultalk 🔗 soul-t.vercel.app"],
+    deployed:  ["Soultalk 🔗 soul-t.vercel.app" "Eprep 🔗 eprep.et"],
   },
   
   stack: {
