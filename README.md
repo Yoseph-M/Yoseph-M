@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/Yoseph-M">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=650&lines=TypeScript+%26+React+Developer+%F0%9F%9A%80;Building+beautiful+web+experiences;From+Addis+Ababa+to+the+world+%F0%9F%8C%8D;Shipping+products%2C+one+commit+at+a+time+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=650&lines=Full+%26+Stack+Developer+%F0%9F%9A%80;Building+web+experiences;From+Addis+Ababa+to+the+world+%F0%9F%8C%8D;Shipping+products%2C+continously+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -38,10 +38,9 @@ const Yoseph_M = {
   
   stack: {
     language:  "TypeScript",
-    frontend:  ["React", "Next.js", "Tailwind CSS"],
-    backend:   ["Node.js", "REST APIs"],
-    deploy:    ["Vercel"],
-    tools:     ["Git", "GitHub", "VS Code"],
+    frontend:  ["React", "Next.js", "Tailwind CSS", "Angular", "JavaScript", "shadcn/ui", "Framer Motion", "GSAP"],
+    backend:   ["Node.js", "REST APIs", "Django", "ExpressJS", "FastAPI", "Python", ],
+    tools:     ["Git", "GitHub", "VS Code" "Vercel"],
   },
   
   passions:   ["Clean UI", "Great UX", "Open Source", "Shipping Products"],
