@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Yoseph_M&fontSize=75&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20&descSize=17&descAlignY=62&descColor=c4b5fd" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Yoseph_M&fontSize=75&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer&descSize=17&descAlignY=62&descColor=c4b5fd" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/Yoseph-M">
