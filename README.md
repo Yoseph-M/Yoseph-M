@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Yoseph_M&fontSize=75&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Building%20from%20Addis%20Ababa%20%F0%9F%87%AA%F0%9F%87%B9&descSize=17&descAlignY=62&descColor=c4b5fd" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Yoseph_M&fontSize=75&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20&descSize=17&descAlignY=62&descColor=c4b5fd" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/Yoseph-M">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=650&lines=Full+%26+Stack+Developer+%F0%9F%9A%80;Building+web+experiences;From+Addis+Ababa+to+the+world+%F0%9F%8C%8D;Shipping+products%2C+continously+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=650&lines=Full+%26+Stack+Developer+%F0%9F%9A%80;Shipping+products%2C+continously+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
