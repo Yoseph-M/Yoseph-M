@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Yoseph_M&fontSize=75&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer&descSize=17&descAlignY=62&descColor=c4b5fd" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Yoseph M&fontSize=75&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/Yoseph-M">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=650&lines=Full+%26+Stack+Developer+;Shipping+products%2C+continously+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=650&lines=Full+%26+Stack+Developer+;Shipping+products+continously+" alt="Typing SVG" />
 </a>
 
 <br/>
