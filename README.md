@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/Yoseph-M">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=650&lines=Full+%26+Stack+Developer+%F0%9F%9A%80;Shipping+products%2C+continously+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=650&lines=Full+%26+Stack+Developer+;Shipping+products%2C+continously+" alt="Typing SVG" />
 </a>
 
 <br/>
